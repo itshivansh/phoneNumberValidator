@@ -2,6 +2,7 @@ using System;
 
 namespace PhoneNumberValidator
 {
+    //Please do not change the signature of class methods
     public class PhoneNumberValidator
     {
         static void Main(string[] args)
