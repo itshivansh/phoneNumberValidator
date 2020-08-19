@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace PhoneNumberValidator
 {
@@ -8,11 +8,11 @@ namespace PhoneNumberValidator
         {
             // call the functions to validate phone number and display the status
         }
-        public string GetInput()
+        public string string GetInput()
         {
             // get phonenumber as input       
         }
-        public void DisplayResult(int result)
+        public static void DisplayResult(int result)
         {
             // display status of phone number valid or invalid
         }
