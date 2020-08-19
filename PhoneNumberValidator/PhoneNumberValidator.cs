@@ -9,7 +9,7 @@ namespace PhoneNumberValidator
         {
             // call the functions to validate phone number and display the status
         }
-        public string string GetInput()
+        public static string GetInput()
         {
             // get phonenumber as input       
         }
